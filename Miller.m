@@ -1,4 +1,4 @@
-#!/usr/bin/env octave
+#!/usr/bin/env octave -q
 #Miller.m
 #calculates flow of light hydrocarbons through pipe 
 #Miller Turbulent method used

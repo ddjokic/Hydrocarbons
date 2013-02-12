@@ -1,3 +1,4 @@
+#!/usr/bin/env octave -q
 #MIT.m
 #calculates losses in pipeline according to MIT Equation suitable for crude oil
 #due to legacy reasons, all units are in Imperial System
